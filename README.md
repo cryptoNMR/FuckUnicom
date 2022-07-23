@@ -18,8 +18,8 @@
 # 使用说明
 在服务器上执行以下命令
 ```
-wget https://github.com/EraserCN/FuckUnicom/blob/main/install.sh
-wget https://github.com/EraserCN/FuckUnicom/blob/main/config.json
+wget https://github.com/cryproNMR/FuckUnicom/blob/main/install.sh
+wget https://github.com/cryptoNMR/FuckUnicom/blob/main/config.json
 ```
 
 > 之后强烈建议修改config.json之UUID
